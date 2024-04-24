@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+table{
+    border: 1px solid black;
+    position: absolute;
+    top: 50%;
+    transform: translate(100px);
+}
+thead{
+    font-weight: bold;
+}
+td, th{
+    border: 1px solid black; 
+    padding: 5px;
+}
